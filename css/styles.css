@@ -3,6 +3,14 @@ h1,h2,p{
 }
 body{
     background-color: rgb(228,202,168);
+    background-image: url(images/pexels-nikolay-osmachko-230477.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.teamenu{
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
 }
 div{
     width: 300px;
