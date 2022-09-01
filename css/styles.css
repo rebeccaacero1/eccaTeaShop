@@ -1,4 +1,4 @@
-h1,h2,p{
+h1,h2,p,article{
     text-align: center;
 }
 body{
@@ -7,7 +7,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.teamenu{
+.teaMenu{
     background-color: orange;
     margin-left: auto;
     margin-right: auto;
