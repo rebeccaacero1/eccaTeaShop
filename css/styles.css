@@ -18,12 +18,12 @@ body{
     /* background-color: red; */
     display: inline-block;
 }
-.teaFlavor, .teaCollection{
+.teaFlavor, .collectionPrice{
     background-color: red;
     text-align: left;
     width: 75%;
 }
-.teaPrice{
+.teaPrice, .collectionPrice{
     background-color: blue;
     text-align: right;
     width: 25%;
