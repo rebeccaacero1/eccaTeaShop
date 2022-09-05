@@ -30,3 +30,6 @@ body{
     text-align: right;
     width: 25%;
 }
+.established{
+    font-style: italic;
+}
