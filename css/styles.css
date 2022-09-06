@@ -41,3 +41,22 @@ body{
 .established{
     font-style: italic;
 }
+footer{
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color:white
+}
+
+a:hover{
+    color: lightgray;
+}
+
+a:active{
+    color: yellow;
+}
