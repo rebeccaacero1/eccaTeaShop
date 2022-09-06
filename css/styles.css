@@ -49,12 +49,16 @@ a {
     color: black;
 }
 
+a:link{
+    color: green;
+}
+
 a:visited {
-    color:white
+    color:white;
 }
 
 a:hover{
-    color: lightgray;
+    color: red;
 }
 
 a:active{
